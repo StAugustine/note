@@ -8,37 +8,37 @@
 
 <p align="center"><b>IP 报文</b></p>
 <p align="center">
-    <img src="../../../assets/img/Integrated/Network/Speed-Net/1.png">
+    <img src="/assets/img/Integrated/Network/Speed-Net/1.png">
 </p>
 
 <p align="center"><b>UDP 报文格式</b></p>
 <p align="center">
-    <img src="../../../assets/img/Integrated/Network/Speed-Net/2.png">
+    <img src="/assets/img/Integrated/Network/Speed-Net/2.png">
 </p>
 
 <p align="center"><b>TCP 报文格式</b></p>
 <p align="center">
-    <img src="../../../assets/img/Integrated/Network/Speed-Net/3.png">
+    <img src="/assets/img/Integrated/Network/Speed-Net/3.png">
 </p>
 
 <p align="center"><b>MAC 帧格式</b></p>
 <p align="center">
-    <img src="../../../assets/img/Integrated/Network/Speed-Net/4.png">
+    <img src="/assets/img/Integrated/Network/Speed-Net/4.png">
 </p>
 
 <p align="center"><b>PPP 帧格式</b></p>
 <p align="center">
-    <img src="../../../assets/img/Integrated/Network/Speed-Net/5.png">
+    <img src="/assets/img/Integrated/Network/Speed-Net/5.png">
 </p>
 
 <p align="center"><b>帧中继的帧格式</b></p>
 <p align="center">
-    <img src="../../../assets/img/Integrated/Network/Speed-Net/6.png">
+    <img src="/assets/img/Integrated/Network/Speed-Net/6.png">
 </p>
 
 <p align="center"><b>ARP 协议的格式</b></p>
 <p align="center">
-    <img src="../../../assets/img/Integrated/Network/Speed-Net/7.png">
+    <img src="/assets/img/Integrated/Network/Speed-Net/7.png">
 </p>
 
 ---
