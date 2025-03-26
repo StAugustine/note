@@ -25,3 +25,6 @@ yum install -y fontconfig libX11 libXext libXrender libjpeg libpng xorg-x11-font
 
 
 4。执行命令 wkhtmltoimage -version 如果没有error报错表示安装成功
+
+
+https://blog.csdn.net/qq_31386371/article/details/143424240
